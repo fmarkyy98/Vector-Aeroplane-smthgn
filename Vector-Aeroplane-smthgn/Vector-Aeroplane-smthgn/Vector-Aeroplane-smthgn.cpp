@@ -25,6 +25,7 @@ bool maxSearch(vector<int> vec, int& maxValue, int& maxIdx)
 			maxIdx = i;
 		}
 	}
+	return l;
 }
 
 int main()
